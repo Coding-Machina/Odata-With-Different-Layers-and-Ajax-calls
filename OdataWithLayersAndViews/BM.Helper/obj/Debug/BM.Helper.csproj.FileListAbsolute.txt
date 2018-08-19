@@ -1,0 +1,6 @@
+D:\MVC\OdataWithLayersAndViews\BM.Helper\bin\Debug\BM.Helper.dll
+D:\MVC\OdataWithLayersAndViews\BM.Helper\bin\Debug\BM.Helper.pdb
+D:\MVC\OdataWithLayersAndViews\BM.Helper\obj\Debug\BM.Helper.csprojAssemblyReference.cache
+D:\MVC\OdataWithLayersAndViews\BM.Helper\obj\Debug\BM.Helper.csproj.CoreCompileInputs.cache
+D:\MVC\OdataWithLayersAndViews\BM.Helper\obj\Debug\BM.Helper.dll
+D:\MVC\OdataWithLayersAndViews\BM.Helper\obj\Debug\BM.Helper.pdb

@@ -1,0 +1,14 @@
+D:\MVC\OdataWithLayersAndViews\BM.EF\bin\Debug\BM.EF.dll.config
+D:\MVC\OdataWithLayersAndViews\BM.EF\bin\Debug\BM.EF.dll
+D:\MVC\OdataWithLayersAndViews\BM.EF\bin\Debug\BM.EF.pdb
+D:\MVC\OdataWithLayersAndViews\BM.EF\bin\Debug\BM.Helper.dll
+D:\MVC\OdataWithLayersAndViews\BM.EF\bin\Debug\EntityFramework.dll
+D:\MVC\OdataWithLayersAndViews\BM.EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\MVC\OdataWithLayersAndViews\BM.EF\bin\Debug\BM.Helper.pdb
+D:\MVC\OdataWithLayersAndViews\BM.EF\bin\Debug\EntityFramework.xml
+D:\MVC\OdataWithLayersAndViews\BM.EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\MVC\OdataWithLayersAndViews\BM.EF\obj\Debug\BM.EF.csprojAssemblyReference.cache
+D:\MVC\OdataWithLayersAndViews\BM.EF\obj\Debug\BM.EF.csproj.CoreCompileInputs.cache
+D:\MVC\OdataWithLayersAndViews\BM.EF\obj\Debug\BM.EF.csproj.CopyComplete
+D:\MVC\OdataWithLayersAndViews\BM.EF\obj\Debug\BM.EF.dll
+D:\MVC\OdataWithLayersAndViews\BM.EF\obj\Debug\BM.EF.pdb

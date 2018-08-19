@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="586fe123-8d5e-4131-8e2d-9ba6088d7214" ChangeDateTime="08/19/2018 13:04:34">
+    <Property Name="ElementName" Value="[dbo].[BatchManagement].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[BatchManagement]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="B" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="92c1f828-8499-443a-97c0-df753f10e66f" ChangeDateTime="08/19/2018 13:04:49">
+    <Property Name="ElementName" Value="[dbo].[BatchManagement].[B]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[BatchManagement]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="BatchId" />
+  </Operation>
+</Operations>

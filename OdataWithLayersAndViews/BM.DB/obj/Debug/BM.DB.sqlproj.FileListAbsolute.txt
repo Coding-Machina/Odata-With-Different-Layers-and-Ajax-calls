@@ -1,0 +1,5 @@
+D:\MVC\OdataWithLayersAndViews\BM.DB\bin\Debug\BM.DB.dacpac
+D:\MVC\OdataWithLayersAndViews\BM.DB\bin\Debug\BM.DB.dll
+D:\MVC\OdataWithLayersAndViews\BM.DB\bin\Debug\BM.DB.pdb
+D:\MVC\OdataWithLayersAndViews\BM.DB\obj\Debug\BM.DB.dll
+D:\MVC\OdataWithLayersAndViews\BM.DB\obj\Debug\BM.DB.pdb
